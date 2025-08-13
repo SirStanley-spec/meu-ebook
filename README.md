@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <!-- Antes tinha um DOCTYPE aqui, mas ele foi tomar café -->
-
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
