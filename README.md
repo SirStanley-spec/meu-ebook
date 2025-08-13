@@ -1,4 +1,6 @@
+<!DOCTYPE html>
 <!-- Antes tinha um DOCTYPE aqui, mas ele foi tomar café -->
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
@@ -8,7 +10,8 @@
     body {
       font-family: Arial, sans-serif;
       text-align: center;
-      padding: 30px;
+      padding: 30px;<img width="896" height="822" alt="meu-ebook" src="https://github.com/user-attachments/assets/da54a66f-e096-402f-8fe7-575d73e94038" />
+
       background-color: #f8f8f8;
     }
     h1 {
@@ -28,8 +31,7 @@
       line-height: 1.5;
     }
     a {
-      display: inline-block;<img width="896" height="822" alt="meu-ebook" src="https://github.com/user-attachments/assets/057555e5-12da-40a0-a047-d2ae315c2062" />
-
+      display: inline-block;
       margin-top: 25px;
       padding: 14px 24px;
       background-color: #28a745;
