@@ -1,16 +1,5 @@
+<!DOCTYPE html>
 <!-- Antes tinha um DOCTYPE aqui, mas ele foi tomar café -->
-
-<html>
-<head>
-    <title>Minha Página</title>
-</head>
-<body>
-    <h1>Bem-vindo!</h1>
-    <p>Essa é a minha página sem DOCTYPE gritando no meio.</p>
-
-    <!-- Se você está lendo isso, você hackeou minha paciência -->
-</body>
-</html>
 
 <html lang="pt-BR">
 <head>
